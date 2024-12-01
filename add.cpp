@@ -12,7 +12,6 @@ int main() {
 
     // Calculate the sum of the two numbers
     sum = num1 / num2;
-
     // Display the result
     std::cout << "The sum of " << num1 << " and " << num2 << " is " << sum << "." <<std::endl ;
 
